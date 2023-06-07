@@ -77,19 +77,6 @@ h1 {
   padding: 10px;
   text-transform: capitalize;
 }
-/* .info {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 24px;
-  padding: 8px;
-}
-
-.info-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  row-gap: 8px;
-} */
 
 .load-more {
   background-color: #008cba;
